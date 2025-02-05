@@ -1,20 +1,28 @@
-
-
-###
-
-<h1 align="left">Assalamualikum. I'm Sumaiya Afrin.</h1>
+<div align="center">
+  <img height="200" src="https://i.postimg.cc/52f6W2gs/github.png"  />
+</div>
 
 ###
 
-<p align="left">My name is Sumaiya Afrin and I'm a web developer from Dhaka, Bangladesh</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="center">Assalamualikum. I'm Sumaiya Afrin.</h1>
 
 ###
 
 <p align="left">🚀 MERN Stack Developer | Frontend Enthusiast<br>🛠️ Skilled in JavaScript, React, Tailwind CSS, and more<br>💡 Always exploring new technologies and improving my skills.  <br>🌍 I believe technology can create a positive impact on the world!</p>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sumaiya0afrin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="af.sumaiyaa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://m.youtube.com/channel/UCWf7dNwg8_J6_hetAfQu60w" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+</div>
 
 ###
 
@@ -30,7 +38,7 @@
 
 ###
 
-<h4 align="left">🖥️ Frontend Development</h4>
+<h4 align="center">🖥️ Frontend Development</h4>
 
 ###
 
@@ -46,7 +54,7 @@
 
 ###
 
-<h4 align="left">⚙️ Backend & Database</h4>
+<h4 align="center">⚙️ Backend & Database</h4>
 
 ###
 
@@ -89,5 +97,29 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
 </div>
+
+###
+
+<h2 align="left">📊 GitHub Stats & Activity</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumaiya0afrin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sumaiya0afrin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=sumaiya0afrin&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h3 align="left">🎯 Fun Fact</h3>
+
+###
+
+<p align="left">"Coding is like magic – but real! Every line of code I write brings something new to life!"</p>
+
+###
+
+<h4 align="left">✨ **Thanks for visiting! Keep coding and making an impact! 🚀</h4>
 
 ###
